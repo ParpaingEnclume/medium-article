@@ -1,15 +1,17 @@
 
 body {
-    color: #494949;
-    font-size: 18px;
+    color: green;
+    font-weight: 900;
+    background-color: purple;
+    font-size: 20px;
     line-height: 1.6;
-    font-weight: lighter;
+    font-weight: bold;
     font-family: 'Lora', serif;
     margin: 0;
 }
 
 .banner {
-    background-image: url("https://source.unsplash.com/random/1000x500");
+    background-image: url("https://statics.lesinrocks.com/content/thumbs/uploads/2019/01/width-1125-height-612/kaamelott-bon.jpg");
     background-size: cover;
     color: white;
     padding: 120px 0;
@@ -30,11 +32,12 @@ body {
 h1, h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    font-size: 30;
 }
 
 h2 {
-    color: #A0A0A0;
-    font-weight: normal;
+    color: yellow;
+    font-weight: bold;
 }
 
 .link-medium {
@@ -47,7 +50,9 @@ h2 {
 }
 
 .link-medium:hover {
-  background-color: rgba(10, 253, 180);
+  background-color: rgba(100, 100, 180);
+  font-size: 100px;
+  color: magenta;
 }
 
 
