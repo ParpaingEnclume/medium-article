@@ -1,6 +1,6 @@
 
 body {
-    color: green;
+    color: yellow;
     font-weight: 900;
     background-color: purple;
     font-size: 20px;
@@ -8,6 +8,7 @@ body {
     font-weight: bold;
     font-family: 'Gloria Hallelujah', cursive;
     margin: 0;
+    background-image:url("http://www.ilovegenerator.com/large/tu-es-love-mon-etoile-132931280023.png");
 }
 
 .banner {
@@ -36,7 +37,7 @@ h1, h2 {
 }
 
 h2 {
-    color: yellow;
+    color: lightgreen;
     font-weight: bold;
 }
 
